@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_ec1209b24face0882932fb602cf59dc979c44ace\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0f602bcf01e617639bd17fd8739d4cfcbef1b8fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_655b733a04917212bac3f523ea925ae8da6c16d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_ebc771ade202fc602e295b17102a4c551d007e43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_c5e7c6569ab44bb6a141acd0287be7c318aaf5b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_0d4fdac6aac2d0ca3a113e1d10ef4be59af7c831\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_4d0a6798b1ed7f468203c6d784d8daabbfc3b4fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_169fb2810c76120f013b6b32e25ab02289a99f4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_388d721102de9f646ee7fe32853cd52fec90309a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_df18e7f8145a63eef0a0ae609ac7aa9bda5a0b43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_ed251db3225541de78f4d7884bf7d0eb1ddef3f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_82603035d5b76b9a35442a6fcfb4b5066a5bffd3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_d655accc82c546b0724e3be73da32382f763a3e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_f26533160a6f921bb54d0bafb290d7bf46585641\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_d1aebc6f19175cac72db9063be6de52f261e4207\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_6fd3bbda2a3908fefc9c7c771def499bfc433c35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_9fe4b4f0abc6fa849aa814fc379324195abdf11c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_459945fc9a3476ec5f37c68fc27eeee7c65617d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_b1c4c813e7f4f1d7c068e0dfb893f9aa6e6cc6da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_f0e3b72baaf48724d8a26df55251981132d9191d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_e87b88f35fe13fdae9c1461c742fc0ffa8d1c573\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_7ae4f0be24ec503fd3aebe43cefe41e69d576e0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_fd35f11c60f9d54707d3d7811b4a440799c28bbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_7720a55cf31cbfb0617510afd2fffd38f2798edd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_094c5531e3116c294eec73c6dfb11bbf362d4b23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_3133663567cf4cecb9dc420a1437dd4933bb5063\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_c8cc0deab8a66ca56b387d8ea772ea43ef456cb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_75c5f49603761c770951ccd905d58320c35454f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_e4468186cf02ba8582920e141e55b52d5c167340\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_0e5d4597a4989c295560dca83b1c155efd0f6acc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_566b9205d181ae19e06afa74837f0d16f5c0fde4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_941ec2f7c221d515a49654277bf6cea50bd5bfe1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_3b7c6dadcb6f2b3af1fab16661ecfb9771ced8dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_871fb803e1952b29f95b8913850f51d2ab50f753\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_87eef2d5b7586c7504edc57c71d0e5cdbc4def93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_8a7ac869b2821d1ffd81b0a25882dd2cd215d486\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_c36c5211df19d111a911bee2e2bcbe2d2b36844b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_6dbc6af6602e76997e3c7265523bcddd7129aab8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d0226066d24768e3970369174d7cada50a2840bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_30dd7b617b04136f7c64cf3d6d49e4657fc8855a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_75f7cdec7f790dc77738e42fb2480404e1fb0ae9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_5584178d70167657822d6bbf40104d0fdfd53fc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_2b9df6c4d981c86c99a20b5a5e95afe040383eee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_17b36b547349e432a6d242ce75278e9a32579f3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_91ebe697a1b023bec4f8fe213733b500b61ea341\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_d43ab3104a14bd22c8ea8b3fd6389acdf782e132\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c5d47b3e916a6136dc9e83d3ea406c5bd9d7c7a1">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_654d19d6e9f2d0a32c7a7dbfb39bc58672f4258f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_22d3d586279546bb05768037fab1f28fb1cc85b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_6cc8deeecc5515555ffb00d933b75f0487cd07a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_a20b7abcf560bc675320c90696cfb6562f7ebcb9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_9ae8f9bc5f316bac16cfb48b1ea61dbebd5519d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_9dae40cc402744912d2ede9ae4475b055dd3417a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_b9499a97d8c9598ab7603ef2182d1d2034679b7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6cd8d7a59ef8ffc7490ac571aeef3f1b2a35c393">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_589de869dc3a414464391b3a2c2041bc986142c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e89ffadd91f69c2d46e6de90b592397c5cbdd282\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_e630a5526f41b5178cb49727f1f4d298bbd0f966\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f2522541a9bef5792ea94d7e71ad1aa871cdd38b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_e94dc83eab62157a8cd72bb149628ead6c78b8ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_9556e180c5ba87b23f815ac7be45b312be833541\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_bc16a74d4e827a8ef77abaab41dc2f4c3127d0b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_729e064afea5c17086e75c6982a877e2d0ffade3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_0c7c3c1424764cc039b318c48b5769eb8040cf33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_f0b7d4a859e46797442fcc0ffc18b5a970738504\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_507c3a3645887539011372d43aab44b75536deaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_c06e95aad01c7fd68c96adf115fc0099a7d03b01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_3e41a3fa0c283225dffbb832265387a560906c7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\nhapt\AndroidStudioProjects\RideShare1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_b4466c30297e204f4aab05e24afd40a64a5e6406\classes.dex" />
+    </item>
+
+</items>
