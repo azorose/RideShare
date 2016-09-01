@@ -4,7 +4,6 @@ import android.app.Dialog;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
-import android.os.AsyncTask;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
@@ -28,14 +27,11 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
-
-import org.json.JSONException;
-
+import com.google.android.gms.maps.model.Polyline;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-
-import zazxxx.modules.WebRequest;
+import zazxxx.modules.getNearPlace;
+import zazxxx.modules.getDierctionPlace;
 
 public class MainActivity extends AppCompatActivity implements
         OnMapReadyCallback,
@@ -43,24 +39,26 @@ public class MainActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener,
         LocationListener {
 
-    GoogleMap mGoogleMap;
+    public static GoogleMap mGoogleMap;
+    public static List<Marker> pMarkers = new ArrayList<>(); // Biến danh sách các địa điểm
+    public static Polyline directionPath; // Biến đường đi.
     GoogleApiClient mGoogleClient;
     LocationRequest mLocateRequest;
     Marker cMarker;
-    String urlAdd = "http://demo.manage.vn/locationTest/getPlace.php";
-    String urlDirect = "https://maps.googleapis.com/maps/api/directions/json";
-    List<Marker> pMarkers = new ArrayList<>();
-    LatLng currLL, destLL;
+    LatLng currLL;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         if (googleServicesAvailable()) {
-            //Toast.makeText(this, "Testing", Toast.LENGTH_LONG).show();
             setContentView(R.layout.activity_main);
             initMap();
         }
+    }
+
+    private void initMap() {
+        MapFragment mapFrag = (MapFragment) getFragmentManager().findFragmentById(R.id.mapFragment);
+        mapFrag.getMapAsync(this);
     }
 
     // Thực thi khi người dùng nhấn 1 loại category trong class Marker List.
@@ -69,44 +67,27 @@ public class MainActivity extends AppCompatActivity implements
         super.onNewIntent(intent);
         // Cập nhật mới tên category.
         setIntent(intent);
-
-        //Bundle extra = getIntent().getExtras();
-
         switch (intent.getStringExtra("AcID")){
-            case "from_MakerList":
+            case "from_MarkerList":
+                String urlAdd = "http://demo.manage.vn/locationTest/getPlace.php";
                 // Lấy giá trị String từ category
                 String value = intent.getStringExtra("name");
-                Toast.makeText(this, value, Toast.LENGTH_LONG).show();
                 if (value != null) {
                     value = value.replace(" ", "%20");
                 }
                 // Cập nhật URL với biến category.
-                String newUrl = urlAdd + "?cat=" + value;
-
+                urlAdd = urlAdd + "?cat=" + value;
+                // Kiểm tra xem các marker cũ đã được xóa hay chưa.
+                if(pMarkers != null){
+                    for(int i=0; i<pMarkers.size();i++){
+                        Marker temp = pMarkers.get(i);
+                        temp.remove();
+                    }
+                }
                 // Thêm các điểm trên bản đồ dựa vào thông tin từ URL.
-                new getPlace().execute(newUrl);
+                new getNearPlace().execute(urlAdd);
                 break;
         }
-        /*
-        if(extra != null) {
-            // Lấy giá trị String từ category
-            String value = extra.getString("name");
-            Toast.makeText(this, value, Toast.LENGTH_LONG).show();
-            if (value != null) {
-                value = value.replace(" ", "%20");
-            }
-            // Cập nhật URL với biến category.
-            String newUrl = urlAdd + "?cat=" + value;
-
-            // Thêm các điểm trên bản đồ dựa vào thông tin từ URL.
-            new getPlace().execute(newUrl);
-        }
-        */
-    }
-
-    private void initMap() {
-        MapFragment mapFrag = (MapFragment) getFragmentManager().findFragmentById(R.id.mapFragment);
-        mapFrag.getMapAsync(this);
     }
 
     public boolean googleServicesAvailable() {
@@ -122,7 +103,6 @@ public class MainActivity extends AppCompatActivity implements
         }
         return false;
     }
-
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
@@ -150,17 +130,27 @@ public class MainActivity extends AppCompatActivity implements
                 }
             });
 
+            // Thực thi khi người dùng click vào nút tìm đường.
             mGoogleMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
                 @Override
                 public void onInfoWindowClick(Marker marker) {
-                    //Toast.makeText(MainActivity.this,"CLICKED", Toast.LENGTH_LONG).show();
-                    Intent intent = new Intent(MainActivity.this, DetailActivity.class);
-                    String locName = marker.getTitle();
-                    String locAdd = marker.getSnippet();
-                    intent.putExtra("locName", locName);
-                    intent.putExtra("locAdd", locAdd);
+                    String urlDirect = "https://maps.googleapis.com/maps/api/directions/json";
+                    urlDirect = urlDirect
+                            + "?origin="
+                            + currLL.latitude
+                            + ","
+                            + currLL.longitude
+                            + "&destination="
+                            + marker.getPosition().latitude
+                            + ","
+                            + marker.getPosition().longitude
+                            + "&key="
+                            + getResources().getString(R.string.direct_api);
 
-                    startActivity(intent);
+                    if(directionPath != null){
+                        directionPath.remove();
+                    }
+                    new getDierctionPlace().execute(urlDirect);
                 }
             });
             //mGoogleMap.setOnInfoWindowClickListener();
@@ -178,11 +168,11 @@ public class MainActivity extends AppCompatActivity implements
     @Override
     public void onConnected(@Nullable Bundle bundle) {
 
+        //Lấy location từ GPS thiết bị, và di chuyển tới vị trí của người dùng.
         Location mLastLocation = LocationServices.FusedLocationApi.getLastLocation(
                 mGoogleClient);
         if (mLastLocation != null) {
             //place marker at current position
-            //mGoogleMap.clear();
             currLL = new LatLng(mLastLocation.getLatitude(), mLastLocation.getLongitude());
             MarkerOptions markerOptions = new MarkerOptions();
             markerOptions.position(currLL);
@@ -194,7 +184,7 @@ public class MainActivity extends AppCompatActivity implements
 
         mLocateRequest = LocationRequest.create();
         mLocateRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
-        mLocateRequest.setInterval(10000);
+        mLocateRequest.setInterval(15000);
 
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
             // TODO: Consider calling
@@ -219,6 +209,7 @@ public class MainActivity extends AppCompatActivity implements
 
     }
 
+    // Thực thi khi có thay đổi vị trí của người dùng hiện tại.
     @Override
     public void onLocationChanged(Location location) {
         if(location == null) {
@@ -234,56 +225,4 @@ public class MainActivity extends AppCompatActivity implements
             cMarker = mGoogleMap.addMarker(markerOpt);
         }
     }
-
-    private class getPlace extends AsyncTask<String, Void, Void>{
-        ArrayList<HashMap<String,String>> locations = null;
-        Marker pMarker;
-
-        @Override
-        protected Void doInBackground(String... urlAddesses) {
-            if(urlAddesses[0] != null) {
-                try {
-                    // Lấy data vị trí.
-                    locations = new WebRequest().parseLocationList(urlAddesses[0]);
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                }
-            } else {
-                System.out.println("There is no URL");
-            }
-            return null;
-        }
-
-        @Override
-        protected void onPostExecute(Void result){
-            super.onPostExecute(result);
-
-            if(locations != null) {
-                // Trường hợp đã tồn tại các marker thì xóa các marker cũ.
-                if (pMarkers != null) {
-                    for(int i = 0; i < pMarkers.size(); i++){
-                        pMarker = pMarkers.get(i);
-                        pMarker.remove();
-                    }
-                }
-
-                // Thêm marker mới.
-                for (int i = 0; i < locations.size(); i++) {
-                    HashMap<String, String> temp = locations.get(i);
-                    Double plat = Double.parseDouble(temp.get("lat"));
-                    Double plng = Double.parseDouble(temp.get("lng"));
-                    LatLng pll = new LatLng(plat, plng);
-                    MarkerOptions pMarkerOpts = new MarkerOptions()
-                            .title(temp.get("name"))
-                            .snippet(temp.get("address"))
-                            .position(pll);
-                    pMarker = mGoogleMap.addMarker(pMarkerOpts);
-                    pMarkers.add(pMarker);
-                }
-            } else {
-                Toast.makeText(MainActivity.this, urlAdd, Toast.LENGTH_LONG).show();
-            }
-        }
-    }
-
 }
