@@ -2,473 +2,473 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_2e2b1f9989d9e2df212ed05a6e4bdb9b29458f9b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_7c2af9244cea4eda8ba59c12a1b5e84ecd9a1aab\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_db38e6355e55c9da00007c7faeb3784d86ee6872\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_fbba9b6d3ea6cf43cb426050083e539e8a872fd1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_8dd60a1e3a87672e19c303ed17571450dd854eb6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_74b2f5bfcb7abac1dca69c0311df58a8214b3132\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_ac34bc74c29f75e5495aa234124e11e8f99aa77a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_50c739d57b2bfd632713ff37d8ea38b3931ebe95\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="b0552fd97aeabac5efa60c1c597d0be7ef9aae83">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_81ff637df216d4e8aaeb1d407433f19aad53205e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_9424f2429dab5a155895895f9d0c955f84879811\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_1dfe5d27863b0c861d096b0ec48ceefc32f68e39\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_7f229d8f372e01254e72900a689ff85e55211e9d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_8f3c03a04b803d025c1797be7c2bc375ccfd2fa9\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_328dcc8ad5f524020171faae22e0ec1295f618fc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_f0721e7da2f0fd1bf8256fa8d63dcf8a8a1447a8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_9c722ca7045c476b5a08f88fbe8a0bb48fc05d48\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_b24400b513dd262f07ce1b7e45c2a0435b9d050b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_117aa646e9644d3f2c35365c2e3251a7a6636e7a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_c40e34a49a2fa35d530129bf31ec18742ce5000a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_99b75722c25a6984388e134828a0cfc5d8f59b21\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_7f196c2bc0cf8794c076c187b388d2c8abbfa3ad\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_051e2fd86aa4c71a40b80751892552e602d35008\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_87e6ba06e0db48ebd72a0d1a9dd8e76fd61ad4f3\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_00039bb06fe1caf549d5dbc0addee474780a4493\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_ba966394fc18ac8c209a8e838a89a831035c2acb\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="4eac0cfd3c9760d26a1a4aa35948796614f94a85">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a8c09b2786449338c36191ca7efed4fde113433\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_bed1f7dae5b6305b024a323fb90ff2588f7de081\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_dbc47cff8f46a2e4c663a41ea396faa4509767c5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_d431144fe3dfb1eaf5f08aa69be0bf7a817dac89\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_566b9205d181ae19e06afa74837f0d16f5c0fde4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_4ff8cb11ee3850c3b85816c5adae0cfd8c19d4bc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_754fc1adbdbc8bffde92a647d570ec1eec7fd7cc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="4348dd26d83b56c2058b768222c3271bce911724">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_d8018f370c931aed53bc8cfd34d515c4ff9665c8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_2920793fd9337ad24835eb58ed813ddbd2994dde\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_48fdad1bdf6103e345d13b1a2178e9212737c8a0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_f1d5dca19fb4e4aafbf4b03b962c77013add37d4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2a2279e4843a17654774d5f8c8159fd61143b1e4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_cfcd804791fd030ea120aee7d41d45816e291329\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_05739a95d526413a8f32a85368d8871273ca62fa\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_a264a009a20c49e758a7fbcf418cd47d7f5355f7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_766b1ec9202bd42d1ba143271048ba7ca45f2e82\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="670df81539ab71918d49b186598b7eff08ef6563">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_18a4d72e9512f071cc3870b0b2e55876cb4fb4e6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_a04428c3f9a66ba207120f558b3fb56396e626a8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b60af1898a4186ff9281291b7d050f75e1f05f42\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_6e4f5c3978cc97ccaa0c6760576ddb60651fa27c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_6e8afcb62acf85d64f0b887b0a769e3a1f97a0da\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_9dd383a82b97fd8d405e5c470b9292cb58fa1ae8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_1ed4b64b8ab877e7bb9f889dd0735c5acdbf588f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_697585c0f6d77adc7cba650fccd78ce55855fc8b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_fd8f5e1e5e112252415acf686664d99e10757d4f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_7f05b185261227beff1fa63826007613f967ff95\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_9dd7b7ca1e5121302c7f17ddc214a64b080c9f09\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_af2ad42107286791d610a03aa8f03868e257f27c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_3f9c153545b1161690ccc22e7479e013fb88108f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_3bb88d696ae15c2a5575af7993da1531f2888ce3\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_a8f7edd6227e169057e78dff2e64129bff7729e5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_f19efb10bc2094e37fbee9f14a3c773793472dfc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_7cd7f1679134b252bf05c975859ee792395bd3bb\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_e1cd323d6f04b465aab076703ce58b161f446288\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_ce4f34341d701fc9da767aacf384de5bb475f245\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_94da62e80663e569c5a68fc349f281d0d3256664\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_b3f92eb32838a7e01f45c7ddede5d5fbc1f04ae2\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_b76f152541321523ab24635cabe41b912a1045f7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_9b1b5f35fa570ea589a34ce927d73c6d3bb692b8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_7d0659749e45e9fe9aa5ee537f58464459158484\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_a4d46bbc3cce5e76622eb87b4e3bad1022cbe684\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="736d8893fb702f128a153c9d87c9c29724d37872">
-        <dex dex="C:\Users\nhapt\Downloads\MapAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_cf3cfa45a6c7c6380f1a32cfeb8d99f046e94400\classes.dex" />
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_41e84062f2895c7005d7bee7968ee24ddddffeab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_ebb21f8e97efc077ce2b9e52187cf5c4973b4cd3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_886bfe30147547537bffd8aad35218a74cf33e9d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="175440679bd5f7a0268d6c1de2c32a8020a0ed9c">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc79493d159c959b5fa300ce075ad507586858b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_3afc9256bf5d2ccf6b797b176f4f47771f60de0d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_03c6edaa995bd4e8a86bbe00e4a4417f7ea4e8af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5f463e60775da9abf0caa8f5cc1fd5b0042f78b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_de78b9b6df54227ca240097170ec0ac401eb3e50/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e1d9b434feb3bbfb7f573f8ab131ef11eeb69bc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_29ad7d0ad35749ff476aa45c3e4f6c5e8e4cbd10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_ba00e3330d942163ce6d5c2dfebe94bae31883ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_91b1d8471ae69533ff75bca41330464e5ce34808/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_ce6327faa7b31bafc94e685e5b1df2c4137562bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_993e7c2773ed3c02feeab2eeba33021dc6de2fa6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_19b907bd935ee615c51df647a916fded30fa229c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_ccba3a51c0e73aacdc58c190da98d8396f1e09a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_6ed84806468be3fbd4638c33fed95a5cf3973521/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_eab1201c8839b2b08a87c44617a8c89b113aa2aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_a9df94c5f74aab112091fd480b18c17ad6dd47e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_128d1634d78e56bb5fe1a65474bc8862727c57be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_1f80695bf1a4c0cad4bfb61177fa913a613cc306/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_d87be8372a280b1803f8987021a399228ab8275d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_a35ab1a76dcc75906d95129c471f1fe0bc2579e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_55ae931196f2af1c5a94790143eb93a758cf8aad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_67c85a2105bc39cb53edff19fea7489bf28bccfd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_c08ba0b9f6928d70faa668d39cbd811d65815104/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_d40159cef3c7a522e0ef1d8c990cde456b110463/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_8f671f5a4ff25dea2b5e71ad214724a849704cc8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_d8381ebc16d6f38ec57d57ff882c87d628ee6ec8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_f4aaf784bb348630dd7d1f23ba6a09ff16228132/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_23e5a4382780a321bb7ec23e406a07eb357aa975/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_def5c0fa4700cfdb147b90cda0a2379e4145939d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_f3199af2b404c574b5b991dd56ba266b9ec66f23/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_bea2fbae05b1a9bb764fd624f90ed2d4783f4c71/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_8162c903e98b6d18a96a5ca85ad3279ea80c9d19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_513897c92f2c450be0b67e6265f64f739b6d5fd9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_5a7d759a2b8ba01d4ceddb3c4c097fdaa7542183/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_11a27ce7662769d801ca37300f410a4b465cbfe6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_8b5b38996d8c28351f41f8b174e6c9c1102332b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_02350eac657ccf11ddb0c653b21a94cc3d0768a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ee937cba224009aec90e220ab5fcbc21b7f835c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_bddf0dea15dbbd318f62e1b26fc18db4610557be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_781976b2e68be28b41ba594ab82dd1223aff3f39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_4fcd5a3598eb9115a28bfbc377274936e3b6c15d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_7678a85499bb6e4c97713b00e7d8452b680094d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c147594bbf22c5d1316132bee11205aad40802d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_4eacdf67089a2934aa6607858b6f13812f483361/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_bbce4abfe7f0b01d2ff83b1adb814f4a107357a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_115ee216de23dc251645ddd5d98eca2956deea86/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_d1ce823e5a30292189a02075ea7e32a529fd32ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_14256c0594bcea17a4a1f5a435d4b3210b0e4d1c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_b9c338740a86f62c15cd7975d320598d6af43936/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_c6266b7274af6d9ff3ff7681fc6b00314fde08f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_6b092f5d2f238d6da33eda9b1f5a78c65ffa7d0c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_fcb681b5bdb4bb0401b48149746d06970a779ea9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_2c2d57fa405dcb26deca8cd1d3a07bc80c50ea71/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_a85ddb3c014d8e7c2d642e37dca5ecce6abd17d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_2482d716a8bac05522add685e7e153168879b854/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="11b5278de4b862523442162847e8f53683bfc1ac">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c33e5284b6f71a725fad941e19eedd557c1f04e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_7ae0d4b80da191187ebec0faeed999be052ae77c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_9a1720ba2fa8c3bf489c86faf4a57ff717c11332/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_cda5390670c051ce923e71c5d5ad1b3b95e76d6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_c3973c29e329b0bc6d0e1363ea284b2f6f8a50ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_6b15336bfef7f07631ae5fe5650f5eecff7578f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ea16d4c3397e7494940a462fcc416a1e7488cc97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_b91f35b5609be368ea7f55cb728d68a1544757a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/az0r0s3/Documents/RideShare/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_6bcebc67ffe0d7135988f6d4a16ee92b6ec604b0/classes.dex" />
     </item>
 
 </items>
